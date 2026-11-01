@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GitHub 极简汉化
 // @namespace    https://github.com/
-// @version      4.1
+// @version      1.0.0  
 // @description  用内置词典把 GitHub 常见界面文本替换为中文，保护文件名与用户生成的描述
 // @author       You
 // @match        https://github.com/*
