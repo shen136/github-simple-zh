@@ -1,4 +1,4 @@
-# GitHub 极简汉化 (GitHub ZH Mini)
+# github-simple-zh
 
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![Tampermonkey](https://img.shields.io/badge/Requires-Tampermonkey-green)](https://www.tampermonkey.net/)
