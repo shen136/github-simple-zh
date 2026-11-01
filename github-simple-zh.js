@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         GitHub 极简汉化
-// @namespace    https://github.com/
+// @namespace    https://github.com/shen136/github-simple-zh
 // @version      1.0.0  
-// @description  用内置词典把 GitHub 常见界面文本替换为中文，保护文件名与用户生成的描述
-// @author       You
+// @description  用内置词典把 GitHub 常见界面文本替换为中文
+// @author       shen136
 // @match        https://github.com/*
 // @grant        none
 // @run-at       document-idle
