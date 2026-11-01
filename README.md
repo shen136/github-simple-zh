@@ -2,7 +2,6 @@
 
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![Tampermonkey](https://img.shields.io/badge/Requires-Tampermonkey-green)](https://www.tampermonkey.net/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
 一个轻量、纯本地的 GitHub 界面中文化油猴脚本。无需调用任何第三方翻译 API，安全、极速
 
